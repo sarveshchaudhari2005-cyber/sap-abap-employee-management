@@ -61,3 +61,17 @@ Screenshots demonstrating the database structure, employee records, selection sc
 - ALV reporting.
 - Debugging and testing improvements.
 
+## Project Screenshots
+
+### Database Structure
+![Database](Database-Table.png)
+
+### Employee Records
+![Employee Data](Employee%20Data.png)
+
+### Selection Screen
+![Selection Screen](Selection%20Screen.png)
+
+### Report Output
+![Report Output](Report%20Output.png)
+
