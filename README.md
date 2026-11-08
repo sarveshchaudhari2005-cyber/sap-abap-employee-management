@@ -1,102 +1,63 @@
+
 # SAP ABAP Employee Management & Reporting System
 
-Project Overview
+## 1. Project Overview
 
 An SAP ABAP-based Employee Management and Reporting System developed using SAP GUI. This project demonstrates database operations, employee data retrieval, selection screens, internal table processing, and salary calculations.
-Technologies Used
 
-SAP ABAP
+## 2. Technologies Used
 
-SAP GUI
+- SAP ABAP
+- SAP GUI
+- SE11 – Data Dictionary
+- SE38 – ABAP Editor
+- Open SQL
+- Internal Tables and Work Areas
+- Selection Screens
 
-SE11 – Data Dictionary
+## 3. Database Design
 
-SE38 – ABAP Editor
+**Custom Database Table:** `ZEMP_PORT`
 
-Open SQL
+| Field | Description |
+|---|---|
+| MANDT | SAP Client |
+| EMP_ID | Employee ID |
+| EMP_NAME | Employee Name |
+| DEPARTMENT | Department |
+| SALARY | Employee Salary |
+| JOIN_DATE | Employee Joining Date |
 
-Internal Tables and Work Areas
+## 4. Implemented Features
 
-Selection Screens
+- Custom employee database table creation.
+- Employee master data insertion.
+- Employee filtering using PARAMETERS and SELECT-OPTIONS.
+- Employee data retrieval using Open SQL.
+- Employee record counting.
+- Total salary calculation.
+- Average salary calculation.
+- Handling cases where no matching records are found.
 
-Database Design
+## 5. Project Screenshots
 
-Custom Database Table: ZEMP_PORT
+Screenshots demonstrating the database structure, employee records, selection screen, and report output are included in this repository.
 
-Field
+## 6. Learning Outcomes
 
-Description
+- SAP ABAP report programming.
+- SAP Data Dictionary fundamentals.
+- Open SQL database operations.
+- Selection-screen development.
+- Internal table and work area processing.
+- Salary calculations using ABAP.
 
-MANDT
+## 7. Project Status
 
-SAP Client
+**Version 1 – Core employee reporting functionality implemented.**
 
-EMP_ID
+### Future Enhancements
+- Modular programming using FORM and PERFORM.
+- ALV reporting.
+- Debugging and testing improvements.
 
-Employee ID
-
-EMP_NAME
-
-Employee Name
-
-DEPARTMENT
-
-Department
-
-SALARY
-
-Employee Salary
-
-JOIN_DATE
-
-Employee Joining Date
-
-Implemented Features
-
-Created a custom employee database table.
-
-Inserted employee master data using ABAP.
-
-Implemented selection screens using PARAMETERS and SELECT-OPTIONS.
-
-Retrieved employee records using Open SQL.
-
-Applied employee ID, department, and minimum salary filters.
-
-Processed employee records using internal tables and work areas.
-
-Calculated total employee count.
-
-Calculated total and average salary.
-
-Handled scenarios where no matching employee records are found.
-
-Project Screenshots
-
-Screenshots of the database structure, employee records, selection screen, and report output are included in this repository.
-
-Learning Outcomes
-
-ABAP report programming.
-
-SAP Data Dictionary fundamentals.
-
-Open SQL database retrieval.
-
-Selection-screen development.
-
-Internal table and work area processing.
-
-Basic financial calculations using ABAP.
-
-Project Status
-
-Version 1 – Core employee reporting functionality implemented.
-
-Future enhancements:
-
-Modular programming using FORM and PERFORM.
-
-ALV reporting.
-
-Debugging and testing improvements.
