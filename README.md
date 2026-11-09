@@ -81,3 +81,6 @@ Screenshots demonstrating the database structure, employee records, selection sc
 ### Report Output
 ![Report Output](Report%20Output.png)
 
+### FULL REPORT OUTPUT
+![
+
