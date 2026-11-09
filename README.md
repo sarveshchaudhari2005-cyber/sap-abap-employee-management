@@ -67,6 +67,24 @@ Screenshots demonstrating the database structure, employee records, selection sc
 - ALV reporting.
 - Debugging and testing improvements.
 
+**Version 2 – Enhanced employee reporting functionality implemented.**
+
+### Implemented Enhancements
+
+- Employee search by ID and name.
+- Department-based filtering.
+- Joining-date filtering.
+- Minimum salary filtering.
+- Input validation to prevent negative salary values.
+- Employee count, total salary and average salary calculations.
+
+### Future Enhancements
+
+- Modular programming using FORM and PERFORM.
+- ALV reporting.
+- Debugging and testing improvements.
+- Sorting employee records.
+
 ## Project Screenshots
 
 ### Database Structure
