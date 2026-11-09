@@ -38,6 +38,12 @@ An SAP ABAP-based Employee Management and Reporting System developed using SAP G
 - Total salary calculation.
 - Average salary calculation.
 - Handling cases where no matching records are found.
+- Employee search by ID and name
+- Department-based filtering
+- Joining-date range filtering
+- Minimum salary filtering
+- Input validation to prevent negative salary values
+- Employee count, total salary and average salary calculation
 
 ## 5. Project Screenshots
 
