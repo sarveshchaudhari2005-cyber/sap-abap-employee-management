@@ -78,18 +78,12 @@ Screenshots demonstrating the database structure, employee records, selection sc
 ### Selection Screen
 ![Selection Screen](Selection%20Screen.png)
 
-### Report Output
-![Report Output](Report%20Output.png)
-
-### Report Output
-![Report Output](Report%20Output.png)
-
-### Updated Selection Screen
-![Updated Selection Screen](Updated-Selection-Screen.png)
-
 ### Salary Validation
 ![Salary Validation](Salary-Validation.png)
 
-### Filtered Report Output
-![Filtered Report Output](Filtered-Report-Output.pn)
+### Updated Report Output
+![Updated Report Output](Output-from-selection-screen.png)
+
+### Complete Employee Report
+![Complete Employee Report](Report%20Output%20%282%29.png)
 
